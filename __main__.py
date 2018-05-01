@@ -3,7 +3,7 @@ Module principal du package pymineur2. C'est ce module que nous allons exécuter
 """
 
 # On importe la classe FenetreDemineur du dossier interface
-from pymineur2.interface.demineur_gui import FenetreDemineur
+from interface.demineur_gui import FenetreDemineur
 
 if __name__ == '__main__':
 
