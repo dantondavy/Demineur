@@ -5,7 +5,7 @@ utilise un objet tableau_mines (une instance de la classe Tableau).
 """
 
 # On importe la classe Tableau du package pymineur
-from pymineur2.pymineur.tableau import Tableau
+from pymineur.tableau import Tableau
 
 
 class Partie:

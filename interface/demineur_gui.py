@@ -2,7 +2,7 @@
 
 # On importe la classe Partie du package pymineur et les méthode et classe de tkinter qu'on a besoin
 from tkinter import Tk, Button, DISABLED, RAISED, SUNKEN, messagebox
-from pymineur2.pymineur.partie import Partie
+from pymineur.partie import Partie
 
 
 class FenetreDemineur(Tk):

@@ -3,7 +3,7 @@ Module contenant la description de la classe Tableau. Un tableau est utilisé po
 """
 
 # On importe la Classe case du package pymineur et le module random
-from pymineur2.pymineur.case import Case
+from pymineur.case import Case
 import random
 
 
