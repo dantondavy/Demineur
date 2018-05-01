@@ -1,5 +1,5 @@
 """
-Module principal du package pymineur2. C'est ce module que nous allons exécuter pour démarrer le jeu de démineur.
+Module principal du package Demineur. C'est ce module que nous allons exécuter pour démarrer le jeu de démineur.
 """
 
 # On importe la classe FenetreDemineur du dossier interface
